@@ -1,0 +1,24 @@
+{
+  "name": "webservices",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/OUKOUKES-Nour-El-Houda/WebServices#readme",
+  "bugs": {
+    "url": "https://github.com/OUKOUKES-Nour-El-Houda/WebServices/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OUKOUKES-Nour-El-Houda/WebServices.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "postgres": "^3.4.5",
+    "soap": "^1.1.8"
+  }
+}
